@@ -21,6 +21,6 @@ The following are some awesome curated list that we used as reference. We do enc
 
 ## Authors
 
-* **Adi Chris Bangun** - *Initial work* - [PurpleBooth](https://github.com/chrisbangun)
+* **Adi Chris Bangun** - [Github](https://github.com/chrisbangun)
 
-* **Aditya Kurniawan** - *Initial work* - [PurpleBooth](https://github.com/akurniawanPurpleBooth)
+* **Aditya Kurniawan** - [Github](https://github.com/akurniawanPurpleBooth)
