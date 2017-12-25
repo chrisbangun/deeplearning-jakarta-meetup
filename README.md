@@ -18,6 +18,8 @@ The following are some awesome curated list that we used as reference. We do enc
 
 - [Chapter 10 - Deep Learning Book](http://www.deeplearningbook.org/contents/rnn.html)
 
+- [From Perceptron to Deep Neural Nets](https://medium.com/@adichris/from-perceptron-to-deep-neural-nets-504b8ff616e)
+
 
 ## Authors
 
