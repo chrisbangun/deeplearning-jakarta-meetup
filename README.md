@@ -25,4 +25,4 @@ The following are some awesome curated list that we used as reference. We do enc
 
 * **Adi Chris Bangun** - [Github](https://github.com/chrisbangun)
 
-* **Aditya Kurniawan** - [Github](https://github.com/akurniawanPurpleBooth)
+* **Aditya Kurniawan** - [Github](https://github.com/akurniawan)
